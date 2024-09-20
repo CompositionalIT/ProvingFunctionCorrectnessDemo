@@ -1,0 +1,4 @@
+FSharp.Core
+FsToolkit.ErrorHandling
+FsCheck
+Expecto.FsCheck
